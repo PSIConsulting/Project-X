@@ -16,7 +16,7 @@
 ### 3. `AI`는 Data분석, AI모델개발, AIOps의 중분류와 세분류로 구성되며, Data분석 42개, AI모델개발 119개, AIOps 31개의 세부 경험을 List-up하였습니다.
 <br>
 
- > 1. Front-end: 사용자의 눈에 보이는 화면을 디자인하고 구현함 (Web Front-end와 iOS, Android를 포함) <br> 2. Back-end: 사용자의 눈에 보이지 않는 서버를 개발하고 Database를 관리 <br> 3. AI: 머신러닝이 가능하도록 데이터 학습 구조를 설계하고, 패턴을 분석하여 모델을 최적화함
+ > *Front-end: 사용자의 눈에 보이는 화면을 디자인하고 구현함 (Web Front-end와 iOS, Android를 포함) <br> *Back-end: 사용자의 눈에 보이지 않는 서버를 개발하고 Database를 관리 <br> *AI: 머신러닝이 가능하도록 데이터 학습 구조를 설계하고, 패턴을 분석하여 모델을 최적화함
 <br>
 <hr>
 
