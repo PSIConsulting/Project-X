@@ -1,3 +1,32 @@
+# Competecy Model
+
+* `소프트웨어 분야 역량 모델 개요`
+* `소프트웨어 분야 역량 모델 List`
+
+<br>
+
+## 소프트웨어 분야 역량 모델 개요
+<hr>
+<br>
+
+### 소프트웨어 분야는 `Front-end`, `Back-end`, `AI`로 구분합니다.
+<br>
+
+### 1. `Front-end`는 Android, iOS, Web의 중분류와 세분류로 구성되며, Android 114개, iOS 109개, Web 82개의 세부 경험을 List-up하였습니다.
+
+### 2. `Back-end`는 Database, Service, Infrastructure의 중분류와 세분류로 구성되며, Database 33개, Service 41개, Infrastructure 16개의 세부 경험을 List-up하였습니다.
+
+### 3. `AI`는 Data분석, AI모델개발, AIOps의 중분류와 세분류로 구성되며, Data분석 42개, AI모델개발 119개, AIOps 31개의 세부 경험을 List-up하였습니다.
+<br>
+
+ > Front-end: 사용자의 눈에 보이는 화면을 디자인하고 구현함<br> (Web Front-end와 iOS, Android를 포함) <br> Back-end: 사용자의 눈에 보이지 않는 서버를 개발하고 Database를 관리 <br> AI: 머신러닝이 가능하도록 데이터 학습 구조를 설계하고, 패턴을 분석하여 모델을 최적화함
+<br>
+<hr>
+
+## 소프트웨어 분야 역량 모델 List
+<hr>
+<br>
+
 | 분야                 | 중분류                    | 세분류                              | 경험 총 개수 |
 | ------------------ | ---------------------- | -------------------------------- | ------- |
 | Front-end<br>(305) | Android<br>(114)       | App Component 구성 역량              | 20      |
@@ -10,17 +39,17 @@
 | Front-end<br>(305) | iOS<br>(109)           | 라이브러리 활용 역량                      | 3       |
 | Front-end<br>(305) | iOS<br>(109)           | 언어와 지식 활용 역량                     | 40      |
 | Front-end<br>(305) | iOS<br>(109)           | 프레임워크 사용 역량                      | 48      |
-| Front-end<br>(305) | iOS<br>(109)           | 언어/프레임워크 사용 역량                   | 31      |
-| Front-end<br>(305) | iOS<br>(109)           | 개발도구 활용 역량                       | 21      |
-| Front-end<br>(305) | iOS<br>(109)           | 프레임워크/라이브러리 활용 역량                | 10      |
-| Front-end<br>(305) | iOS<br>(109)           | 기본 지식 활용 역량                      | 20      |
+| Front-end<br>(305) | Web<br>(82)            | 언어/프레임워크 사용 역량                   | 31      |
+| Front-end<br>(305) | Web<br>(82)            | 개발도구 활용 역량                       | 21      |
+| Front-end<br>(305) | Web<br>(82)            | 프레임워크/라이브러리 활용 역량                | 10      |
+| Front-end<br>(305) | Web<br>(82)            | 기본 지식 활용 역량                      | 20      |
 | Back-end<br>(90)   | Database<br>(33)       | DBMS 활용 역량                       | 14      |
 | Back-end<br>(90)   | Database<br>(33)       | SQL 사용 역량                        | 10      |
 | Back-end<br>(90)   | Database<br>(33)       | 개발도구 및 프레임워크 활용 역량               | 6       |
 | Back-end<br>(90)   | Database<br>(33)       | 기타                               | 3       |
-| Back-end<br>(90)   | Database<br>(33)       | 언어 및 프레임워크 사용 역량                 | 3       |
-| Back-end<br>(90)   | Database<br>(33)       | 개발도구 활용 역량                       | 9       |
-| Back-end<br>(90)   | Database<br>(33)       | service (리터러시(Restful API) 발휘 역량 | 3       |
+| Back-end<br>(90)   | Service<br>(41)        | 언어 및 프레임워크 사용 역량                 | 3       |
+| Back-end<br>(90)   | Service<br>(41)        | 개발도구 활용 역량                       | 9       |
+| Back-end<br>(90)   | Service<br>(41)        | service (리터러시(Restful API) 발휘 역량 | 3       |
 | Back-end<br>(90)   | Service<br>(41)        | 리터러시(모델설계)발휘 역량                  | 9       |
 | Back-end<br>(90)   | Service<br>(41)        | 리터러시(암호화) 발휘 역량                  | 2       |
 | Back-end<br>(90)   | Service<br>(41)        | 기타                               | 15      |
