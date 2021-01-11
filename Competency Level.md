@@ -23,7 +23,7 @@
 
 ## 분야별 학습 수준
 
-### 학습 수준 가이드(`Competency Level Guide.md`)를 바탕으로 Front-end, Back-end, AI 분야별 학습수준을 상세화 하였으며, 상세 내용은 다음과 같습니다.
+### 학습 수준 가이드(상단 표)를 바탕으로 Front-end, Back-end, AI 분야별 학습수준을 상세화 하였으며, 상세 내용은 다음과 같습니다.
 <hr>
 
 | 역량구분   | Soft-skill 수준                                                                            | Front-end                                                                               | Back-end                                                                                                                         | (1) AI                                                       | (2) AI                                                                       | (3) AI                                              |
