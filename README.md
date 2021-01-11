@@ -48,12 +48,14 @@
 
 # 5. 역량 모델 세부내용
 
-* 학습 수준 및 지식, 기술 List
+* 학습 수준 List
+* 역량 모델 구조도
 * Front-End 경험 List(Android)
 * Front-End 경험 List(iOS)
 * Front-End 경험 List(Web)
 * Back-End 경험 List
 * AI 경험 List
+* 기술 List
 * Soft-Skill List
 <br>
 <hr>
