@@ -48,14 +48,14 @@
 
 ## 5. 역량 모델 세부내용
 
-* 학습 수준 List
-* 역량 모델 구조도
-* Front-End 경험 List(Android)
-* Front-End 경험 List(iOS)
-* Front-End 경험 List(Web)
-* Back-End 경험 List
-* AI 경험 List
-* 기술 List
-* Soft-Skill List
+* 학습 수준 _ Competency Level.md
+* 역량 모델 구조도 _ Competency Model.md
+* AI 경험 List _ Experience of AI.md
+* Back-End 경험 List _ Experience of Back-End.md
+* Front-End 경험 List(Android) _ Experience of Front-end(Android).md
+* Front-End 경험 List(Web) _ Experience of Front-end(Web).md
+* Front-End 경험 List(iOS) _ Experience of Front-end(iOS).md
+* 지식/기술 List _ Knowledge&skill.md
+* Soft-Skill List _ Soft-Skills.md
 <br>
 <hr>
